@@ -17,9 +17,9 @@ The higher the level, the closer it is to actual spoken languages.
 
 
 ### Data  
-information that is useful in some way.  
-Ex. name, age, score, etc.  
-Computer Science is all about managing data.  
+- Data = information that is useful in some way.  
+- Ex. name, age, score, etc.  
+- Computer Science is all about managing data.  
 
 ### Math
 ``` python 
