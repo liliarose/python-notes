@@ -1,7 +1,7 @@
 # Unit 1.1: Intro to Python
 
 ### Introduction, What is Python and Why Python?
-1. popular high-level programming language
+1. popular high-level programming language  
 From Machine, to readable code, that’s going from low level to high level.    
 The lower the level, the closer the language is to machine code (binary).  
 The higher the level, the closer it is to actual spoken languages.  
@@ -16,10 +16,10 @@ The higher the level, the closer it is to actual spoken languages.
 ` print "Hello World!" ` 
 
 
-### Data
-⋅⋅⋅information that is useful in some way.⋅⋅
-⋅⋅⋅Ex. name, age, score, etc.⋅⋅
-⋅⋅⋅Computer Science is all about managing data.⋅⋅
+### Data  
+information that is useful in some way.  
+Ex. name, age, score, etc.  
+Computer Science is all about managing data.  
 
 ### Math
 ``` python 
